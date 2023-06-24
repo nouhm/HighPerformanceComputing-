@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\HPC_ProjectTemplate_MPI\HPC_ProjectTemplate\Source.cpp(277,59): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> C:\Users\user\source\repos\HPC_ProjectTemplate_MPI\Debug\HPC_ProjectTemplate.exe
